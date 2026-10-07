@@ -1,0 +1,15 @@
+# Private context, not for the public repo
+CLAUDE.md
+CLAUDE.local.md
+private/
+docs/job-posting.md
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# OS
+.DS_Store
